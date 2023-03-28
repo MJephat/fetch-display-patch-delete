@@ -1,0 +1,76 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2020,
+      "price": 25000,
+      "image_url": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dG95b3RhJTIwY2Ftcnl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 2,
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2022,
+      "price": "100",
+      "image_url": "https://images.unsplash.com/photo-1636915860623-57b9b74133e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG9uZGElMjBjaXZpY3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 3,
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2018,
+      "price": 30000,
+      "image_url": "https://images.unsplash.com/photo-1625231334168-35067f8853ed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Zm9yZCUyMG11c3Rhbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 4,
+      "make": "Tesla",
+      "model": "Model S",
+      "year": 2021,
+      "price": 75000,
+      "image_url": "https://images.unsplash.com/photo-1453491945771-a1e904948959?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHRlc2xhJTIwc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 5,
+      "make": "Chevrolet",
+      "model": "Impala",
+      "year": 2019,
+      "price": 23000,
+      "image_url": "https://images.unsplash.com/photo-1543424165-dc50e710c481?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGNoZXZyb2xldCUyMGltcGFsYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 6,
+      "make": "BMW",
+      "model": "3 Series",
+      "year": 2021,
+      "price": 42000,
+      "image_url": "https://images.unsplash.com/photo-1510903117032-f1596c327647?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGJtdyUyMDMlMjBzZXJpZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 7,
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": 2020,
+      "price": 50000,
+      "image_url": "https://images.unsplash.com/photo-1652453822986-04f70788b118?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fG1lcmNlZGVzJTIwZSUyMGNsYXNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 8,
+      "make": "Audi",
+      "model": "A4",
+      "year": 2022,
+      "price": 38000,
+      "image_url": "https://images.unsplash.com/photo-1616731287973-b9e9f7f1c11c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTN8fGF1ZGklMjBhNHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "make": "mazda",
+      "model": "CX-5",
+      "year": 2218,
+      "price": 3000,
+      "image_url": "https://images.unsplash.com/photo-1625231334168-35067f8853ed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Zm9yZCUyMG11c3Rhbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "id": 9
+    }
+  ]
+}
